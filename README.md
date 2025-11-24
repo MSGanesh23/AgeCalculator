@@ -1,1 +1,3 @@
-Building a basic age calculator using HTML, CSS and Javascript.
+# Foobar
+
+This is a simple age calculator using HTML, CSS and Javascript.
