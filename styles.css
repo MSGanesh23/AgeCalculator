@@ -1,7 +1,18 @@
-h1{
-    background-color: yellow;
-}
+
 
 html {
     background-color: aquamarine;
+}
+
+.main-container{
+    background-color: white;
+    margin: auto;
+    max-width: 25%;
+    margin-top: 250px;
+    padding: 25px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    
+    
 }
