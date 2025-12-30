@@ -2,17 +2,41 @@
 
 html {
     background-color: aquamarine;
+    height: 100%;
 }
 
 .main-container{
     background-color: white;
     margin: auto;
     max-width: 25%;
-    margin-top: 250px;
+    margin: auto;
     padding: 25px;
     border-radius: 8px;
     align-items: center;
     justify-content: center;
     
     
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: red;
+    margin: 0;
+    
+}
+
+.footer{
+    background-color: blue;
+    margin-bottom: 0;
+}
+
+h1{
+    margin: 0; /*To Remove the extra space between the top of the page and the header*/
 }
